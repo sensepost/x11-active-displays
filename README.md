@@ -39,3 +39,9 @@ If set to a directory, the output screenshots will be saved there. Otherwise, de
 xwininfo
 
 import
+
+## Authors:
+Darryn@SensePost.com
+
+Thomas@SensePost.com
+
