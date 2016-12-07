@@ -8,6 +8,8 @@ If the ```dir``` argument is to a directory, the screenshot will be saved to the
 
 This script is based on the x11-access.nse script by vladz.
 
+Once you've found a vulnerable host, check out our tool for exploiting it [here](https://github.com/sensepost/xrdp).
+
 ## Usage
 ```
 nmap -p6000 <host> --script x11-active-displays.nse
