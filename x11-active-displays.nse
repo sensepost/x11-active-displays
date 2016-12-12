@@ -37,7 +37,7 @@ This script is based on the x11-access.nse script by vladz.
 --     there. Otherwise, default to the /tmp/ directory.
 --
 
-author = "Darryn Cull"
+author = "Darryn Cull, Thomas Underhay"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 categories = {"default", "auth", "safe"}
 dependencies = {"xwininfo", "xset", "import"}
